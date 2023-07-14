@@ -552,13 +552,13 @@ ul.row {
 
 .card-testimonial .card-avatar{
     border-radius: 50%;
-    width: 1000%;
-    height: 1000%;
+    width: 10;
+    height: 10;
 }
 
 .card-testimonial .card-quote cite {
     display: block;
-    pad: 100%;
+    pad: 1;
     color: var(--color-primary);
 }
 
