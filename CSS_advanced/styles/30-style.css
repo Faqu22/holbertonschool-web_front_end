@@ -612,8 +612,8 @@ ul.row {
 .card-work .card-image img {
     height: 30rem;
     width: 100%;
-    object-fit: cover;
     vertical-align: bottom;
+    object-fit: cover;
 }
 
 .card-work .card-inner {
@@ -636,7 +636,7 @@ ul.row {
     position: relative;
 }
 
-.card-work .card-title {
+.card-work .card-title a {
     display: block;
     text-decoration: none;
     padding-top: 45%;
