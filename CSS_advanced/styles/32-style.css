@@ -627,16 +627,17 @@ ul.row {
     transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
-.card-work:hover .card-inner {
+.card-inner {
     background-color: rgba(0,0,0,0.7);
 }
 
-.card-work:hover .card-image {
+
+.card-image {
     transform: scale(1.2);
     transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
-.card-work:hover .card-outer {
+.card-outer {
     transform: scale(0.95);
 }
 
@@ -667,7 +668,7 @@ ul.row {
     content: ""; 
 }
 
-.card-work:hover .card-title {
+.card-title {
     opacity: 1;
 }
 
