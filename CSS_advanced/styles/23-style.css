@@ -514,7 +514,7 @@ ul.row {
 }
 
 .social-link {
-    list-style-type: block;
+    display: block;
 }
 
 .social-link > svg {
