@@ -521,13 +521,13 @@ ul.row {
     fill: var(--text-color);
 }
 
-.card-title .card-services {
+.card-services .card-title {
     margin: 0;
 }
 
 .card-services a {
     display: block;
-    padding: 200%;
+    padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
